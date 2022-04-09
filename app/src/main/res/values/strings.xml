@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Spirala 22</string>
+    <string-array name="spinner_filter">
+        <item>Sve moje ankete</item>
+        <item>Sve ankete</item>
+        <item>Urađene ankete</item>
+        <item>Buduće ankete</item>
+        <item>Prošle ankete</item>
+    </string-array>
+
+    <string-array name="spinner_godine">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+    <string-array name="spinner_grupe">
+        <item>GRUPA 1</item>
+        <item>GRUPA 2</item>
+    </string-array>
+</resources>
